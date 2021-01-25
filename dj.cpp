@@ -6,7 +6,7 @@ int main()
 
 for(i=1;i<=5;i++)
 {
-	printf("sangam.\n")uyu
+	printf("sangam and amit.\n")uyu
 	
 	
 }
